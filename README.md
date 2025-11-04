@@ -1,3 +1,3 @@
 # git_test
 
-Hello Odin!
+Learning Frontend in Odin!
